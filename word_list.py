@@ -1,0 +1,1 @@
+words = ["AFTERNOON","AGREEMENT""EZGI","FATMA"]
